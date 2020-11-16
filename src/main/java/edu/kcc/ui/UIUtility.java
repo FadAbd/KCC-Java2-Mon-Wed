@@ -8,9 +8,8 @@ import java.util.Scanner;
 
 public class UIUtility {
 
-    /**
-     * The desired width of the page in characters.
-     */
+    
+
     public static final int PAGE_WIDTH = 80;
 
 
